@@ -63,7 +63,7 @@ CodeAlpha_HangmanGame/
 1. Clone this repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_HangmanGame.git
+git clone https://github.com/harinir-12/CodeAlpha_HangmanGame.git
 ```
 
 2. Open the project folder.
@@ -127,9 +127,9 @@ Through this project, I learned:
 
 Python Programming Intern – CodeAlpha
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/harinir-12
 
-LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/
+LinkedIn: https://www.linkedin.com/in/harini-r-b9832a38b
 
 ---
 
